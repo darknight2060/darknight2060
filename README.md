@@ -1,68 +1,54 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=DarkNight2060&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58" alt="header" />
+# `DarkNight2060`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+things+for+the+web;Always+learning+something+new;Open+source+enthusiast" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=700&color=3FB950&center=true&vCenter=true&repeat=true&width=560&height=36&lines=%24+build+--learn+--repeat;%24+turning+ideas+into+working+software;%24+open+to+interesting+projects" alt="Animated developer introduction" />
+
+<p>
+  Software developer focused on building useful, maintainable products.<br />
+  Exploring the space between web, automation and open source.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DarkNight2060&label=Views&color=58a6ff&style=flat-square" alt="views" />
-  <a href="https://github.com/DarkNight2060?tab=followers">
-    <img src="https://img.shields.io/github/followers/DarkNight2060?style=flat-square&color=58a6ff&labelColor=0d1117" alt="followers" />
-  </a>
-</p>
+</div>
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<br />
 
-### 👋 Hakkımda
+## Toolbox
 
-- 🔭 Açık kaynak projeler üzerinde çalışıyorum
-- 🌱 Sürekli yeni teknolojiler öğreniyorum
-- 💬 Web geliştirme ve otomasyon konularında konuşmayı severim
-- ⚡ Kahve → Kod ☕
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,python,firebase,git,npm,webpack,gradle,vercel&theme=dark&perline=12" alt="Technology stack" />
+</div>
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<br />
 
-### 🛠️ Teknolojiler
+## At a glance
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,firebase,vercel,git,webpack,gradle&perline=11" alt="skills" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DarkNight2060&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=00000000&text_color=8b949e&icon_color=3fb950" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DarkNight2060&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=00000000&text_color=57606a&icon_color=1a7f37" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=DarkNight2060&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=00000000&text_color=8b949e&icon_color=3fb950" alt="GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DarkNight2060&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e&langs_count=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DarkNight2060&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=57606a&langs_count=6" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkNight2060&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e&langs_count=6" alt="Most used languages" />
+  </picture>
+</div>
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DarkNight2060&hide_border=true&background=00000000&stroke=30363d&ring=3fb950&fire=3fb950&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DarkNight2060&hide_border=true&background=00000000&stroke=d0d7de&ring=1a7f37&fire=1a7f37&currStreakNum=24292f&sideNums=24292f&currStreakLabel=1a7f37&sideLabels=57606a&dates=57606a" />
+    <img width="56%" src="https://streak-stats.demolab.com?user=DarkNight2060&hide_border=true&background=00000000&stroke=30363d&ring=3fb950&fire=3fb950&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e" alt="GitHub contribution streak" />
+  </picture>
+</div>
 
-### 📊 İstatistikler
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DarkNight2060&bg_color=00000000&color=8b949e&line=3fb950&point=f0f6fc&area=true&area_color=238636&hide_border=true&hide_title=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DarkNight2060&bg_color=00000000&color=57606a&line=1a7f37&point=24292f&area=true&area_color=2da44e&hide_border=true&hide_title=true" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DarkNight2060&bg_color=00000000&color=8b949e&line=3fb950&point=f0f6fc&area=true&area_color=238636&hide_border=true&hide_title=true" alt="Contribution activity graph" />
+  </picture>
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DarkNight2060&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkNight2060&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="top langs" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DarkNight2060&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-
-### 🌐 İletişim
-
-<p align="center">
-  <a href="https://github.com/DarkNight2060">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
-  </a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" alt="footer" />
